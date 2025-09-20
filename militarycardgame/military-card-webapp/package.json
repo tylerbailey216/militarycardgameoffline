@@ -1,0 +1,22 @@
+{
+  "name": "military-card-webapp",
+  "version": "1.0.0",
+  "description": "A web application for a military trading card game featuring interactive card flipping.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "military",
+    "trading card",
+    "web application"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
